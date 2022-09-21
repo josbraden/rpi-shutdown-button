@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # Using GPIO 18 for my project
-# Place file under /usr/local/bin/
+# Place file under /usr/local/bin/ and mark executable
 
 import RPi.GPIO as GPIO
 import subprocess
